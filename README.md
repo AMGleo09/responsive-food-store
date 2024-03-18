@@ -6,5 +6,7 @@
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
+Check out here [Click me](https://amgleo09.github.io/responsive-grocery-store/)
+
 
 ![preview img](/preview.png)
